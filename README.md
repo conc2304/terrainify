@@ -1,9 +1,5 @@
 ## To Run Instructions:
 
-### Extract the script files:
-
-Unzip the downloaded script files to access their contents.
-
 ### Add script files to Maya:
 
 There are two methods to add the script files to your Maya environment. You can either:
